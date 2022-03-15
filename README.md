@@ -45,3 +45,6 @@ Change your logo, banner & color in this file.
 - [Discord](https://discord.gg/HkZZGd5UtD)
 - [Support](https://discord.gg/HkZZGd5UtD)
 - Developer: Scrqpting#8698
+
+![banner_locked](https://user-images.githubusercontent.com/57843223/158469114-41feec7f-0649-4ee8-93e5-41a678722803.png)
+
