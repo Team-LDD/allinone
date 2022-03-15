@@ -17,4 +17,4 @@ We as Locked Development have created an all in one bot. You can buy this bot in
  # 🛒 Where can I order the bot?
 You can create a ticket in the discord (see down below)
 
-\https://discord.gg/HkZZGd5UtD.md
+- Discord - [link](https://discord.gg/HkZZGd5UtD)
