@@ -1,4 +1,4 @@
-# 🔒 Locked Development All in One
+# 🔒 Locked Development | All in One
 We as Locked Development have created an all in one bot. You can buy this bot in the discord for a nice price. Continue reading this post to find all the information about the discord bot.
 
 # 💻 Features
