@@ -13,6 +13,7 @@ We as Locked Development have created an all in one bot. You can buy this bot in
  - ➕ Counting 
  - 🔢 Guess the number
  - 🎵 Music
+ - 💬 Chatbot
  
  # 🛒 Where can I order the bot?
 You can create a ticket in the discord (see down below)
@@ -36,9 +37,13 @@ Change your logo, banner & color in this file.
 1. Open ui.yml
 2. Change it to your stuff
 
-🔧 Auto moderation
+# 🔧 Auto moderation
 1. Open automod.yml
 2. Change it to your id's and permission
+
+# 💬 Chatbot
+1. Open games.yml
+2. Change it to your id and permission
 
 # 📌 Information
 
