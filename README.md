@@ -14,6 +14,7 @@ We as Locked Development have created an all in one bot. You can buy this bot in
  - 🔢 Guess the number
  - 🎵 Music
  - 💬 Chatbot
+ - ♾️ Invites system
  
  # 🛒 Where can I order the bot?
 You can create a ticket in the discord (see down below)
